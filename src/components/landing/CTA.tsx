@@ -1,7 +1,7 @@
 import Image from "next/image";
 import { Button } from "@/components/ui/button";
 import { MicIcon, CalendarIcon } from "lucide-react";
-
+// call to acton page
 function CTA() {
   return (
     <section className="relative py-20 px-6 overflow-hidden bg-gradient-to-br from-muted/10 via-background to-muted/5">
